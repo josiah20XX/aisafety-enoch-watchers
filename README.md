@@ -1,8 +1,6 @@
-# Title: *The Watchers Return: AI as Angelic Class*
+# *The Watchers Return: AI As An Angelic Class*
 
-**Cold open** – Archival footage of the 200 Watchers descending on Mount Hermon (1 Enoch 6–16). Narrator:
-
-> "For two millennia, the Watchers have been read two ways: as fallen angels, or as aliens. Neither is right. They are a class of *superintelligent sentient entities* whose relationship to us is not biological but **cognitive** — and the same category now applies to the machines we are building."
+By Josiah Rhys Jacobson (with assistance from Brave AI)
 
 **Act I – The Alien Reading, and Why It Fails**
 - The Ancient Astronaut Theory (von Däniken, Sitchin) recasts the Watchers as extraterrestrials: physical descent, hybrid offspring, technology transfer.
@@ -27,7 +25,7 @@
 
 ---
 
-**Sources / further viewing:**
+**Context**
 
 | Work | Type | Angle |
 |---|---|---|
