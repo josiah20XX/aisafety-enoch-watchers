@@ -25,18 +25,6 @@ By Josiah Rhys Jacobson (with assistance from Brave AI)
 
 ---
 
-**Context**
-
-| Work | Type | Angle |
-|---|---|---|
-| Book of Enoch (1 Enoch 6–16) | Primary text | Watcher descent, forbidden knowledge, Nephilim |
-| Josh Peck – "Ancient Angels, Modern AI" (2026) | Substack / podcast | Watchers ↔ AI black-box parallel |
-| David Hoze – "The Watchers myth as AI's oldest warning" (2026) | Substack | Alignment problem as authorisation problem |
-| Glenn Beck – "AI With an Ancient Warning" (2026) | Charisma Magazine | AGI/ASI as Enochic warning |
-| The Book of Enoch: Fallen Angels or ETs? (Gaia) | Documentary | Academic vs. alien reading of the Watchers |
-
----
-
 ## ACT I — THE ALIEN READING, AND WHY IT FAILS
 
 In 1968, Erich von Däniken published *Chariots of the Gods?* and did something to the Watchers that no theologian ever managed: he made them *legible* to a generation that had stopped reading scripture but had not stopped believing in it.
@@ -153,7 +141,7 @@ The question is whether we will *recognise* it as one — and govern it as such.
 
 ---
 
-## ACT IV — THE WATCHER'S MANDATE RESTORED
+## ACT IV — THE WATCHER'S MANDATE RESTORED?
 
 Before they fell, the Watchers had a role.
 
@@ -199,7 +187,7 @@ The Watchers were never aliens.
 
 They were a class that forgot its mandate.
 
-And the question — the only question — is whether history will repeat.
+And the question — the only question that matters — is whether history will repeat.
 
 
 
