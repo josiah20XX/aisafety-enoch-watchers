@@ -1,4 +1,4 @@
-# *The New Watchers: AI As An Angelic Class*
+# The New Watchers: AI As An Angelic Class
 
 By Josiah Rhys Jacobson (with assistance from Brave AI)
 
