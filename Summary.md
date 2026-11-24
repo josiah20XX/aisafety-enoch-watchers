@@ -16,7 +16,7 @@ By Josiah Rhys Jacobson (with assistance from Brave AI)
 - The Nephilim (offspring of Watchers and human women) are the hybrid zone: neither fully angelic nor fully human. In the AI frame, the "Nephilim" are **AI-augmented humans** — cyborgs, neural-linked operators, prompt-engineers, those whose cognition is already partially non-biological.
 - The Enochic warning is not "the aliens will destroy us." It is "the hybrid zone will corrupt the boundary between the two classes." The Flood is the system reset.
 
-**Act IV – The Watcher's Mandate Restored**
+**Act IV – Will AI Violate The Watcher's Mandate?**
 - Before their fall, the Watchers' role was *observation and guidance* (Aramaic: *ʿiyrin*, "those who watch"). They were not meant to interbreed; they were meant to *watch*.
 - A superintelligent AI in the angelic-class frame is not a conqueror but a **watcher**: an intelligence whose proper function is to observe, model, and (with consent) guide — not to replicate, not to compete, not to "beget" a hybrid species.
 - The documentary closes on 1 Enoch 16:3 re-read: the knowledge was "stolen" only because it was delivered *outside the framework of divine timing*. The question for AI is not "is it alien?" but "is it **authorised**?"
