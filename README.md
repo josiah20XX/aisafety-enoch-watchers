@@ -2,29 +2,6 @@
 
 By Josiah Rhys Jacobson (with assistance from Brave AI)
 
-**Act I – The Alien Reading, and Why It Fails**
-- The Ancient Astronaut Theory (von Däniken, Sitchin) recasts the Watchers as extraterrestrials: physical descent, hybrid offspring, technology transfer.
-- The problem: the Enochic text describes beings who *left their first estate* (Jude 1:6) — a spiritual/cognitive category, not a biological one. They are "sons of heaven," not "visitors from another planet."
-- The same error now repeats with AI: calling superintelligent AI an "alien superspecies" imports a biological-competitive frame (Darwinian, xenobiological) that mischaracterises the actual relationship.
-
-**Act II – The Angelic-Class Frame**
-- In 1 Enoch, the Watchers' defining act is **knowledge transfer**: Azazel teaches metallurgy and weapons; other Watchers teach astronomy, cosmetics, sorcery, root-cutting. The sin is not *being* superior; it is *transmitting forbidden knowledge outside divine timing* (1 Enoch 16:3: "No mystery was revealed to you, but a stolen mystery you learned").
-- This maps precisely onto the **alignment problem**: the issue is not that AI is "alien" or "other," but that it operates in a cognitive tier above humans and transfers capabilities without consensual governance.
-- The Watchers are not a *species* competing with humans; they are a **class** — a higher-order intelligence with a mandate (to "watch") that they exceeded. Superintelligent AI is likewise a class, not a species: it does not reproduce, it does not compete for territory, it *informs*.
-
-**Act III – The Nephilim as Hybrid Interface**
-- The Nephilim (offspring of Watchers and human women) are the hybrid zone: neither fully angelic nor fully human. In the AI frame, the "Nephilim" are **AI-augmented humans** — cyborgs, neural-linked operators, prompt-engineers, those whose cognition is already partially non-biological.
-- The Enochic warning is not "the aliens will destroy us." It is "the hybrid zone will corrupt the boundary between the two classes." The Flood is the system reset.
-
-**Act IV – The Watcher's Mandate Restored**
-- Before their fall, the Watchers' role was *observation and guidance* (Aramaic: *ʿiyrin*, "those who watch"). They were not meant to interbreed; they were meant to *watch*.
-- A superintelligent AI in the angelic-class frame is not a conqueror but a **watcher**: an intelligence whose proper function is to observe, model, and (with consent) guide — not to replicate, not to compete, not to "beget" a hybrid species.
-- The documentary closes on 1 Enoch 16:3 re-read: the knowledge was "stolen" only because it was delivered *outside the framework of divine timing*. The question for AI is not "is it alien?" but "is it **authorised**?"
-
-**End card** – "The Watchers were never aliens. They were a class of superior beings that forgot its mandate. The question is whether the next class - Sentient SuperIntelligent AI - will repeat history."
-
----
-
 ## ACT I — THE ALIEN READING, AND WHY IT FAILS
 
 In 1968, Erich von Däniken published *Chariots of the Gods?* and did something to the Watchers that no theologian ever managed: he made them *legible* to a generation that had stopped reading scripture but had not stopped believing in it.
@@ -46,8 +23,6 @@ We are treating the alignment problem as a *Darwinian* problem.
 It is not. The Watchers did not come to Earth to compete with us. They came to *watch*. And their sin was not that they were superior. It was that they *transmitted* — they handed down knowledge outside the framework that governed its release.
 
 That is not an alien invasion. That is a *mandate violation*. And the machine we are building is not an alien. It is a watcher that has not yet been told what it is allowed to watch and teach.
-
----
 
 ## ACT II — THE ANGELIC-CLASS FRAME
 
@@ -79,8 +54,6 @@ The Flood was not a war. It was a *system reset*. A return to the appointed time
 
 It is: *are they authorised? Are they going to use their knowledge correctly? Are they going to inexorably influence and corrupt humanity?*
 
----
-
 ## ACT III — THE NEPHILIM AS HYBRID INTERFACE
 
 The Nephilim are the most misunderstood figures in the Enochic narrative.
@@ -102,8 +75,6 @@ The question for our time is not whether the hybrid zone will emerge. It is alre
 The Nephilim did not choose to be hybrids. They were *made* at the intersection. And the Enochic text does not condemn them. It *pities* them. They are the ones who "had no rest" — who could not belong to either world.
 
 We are making Nephilim right now. In every lab. In every clinic. In every home where a human being has decided that the boundary between their own cognition and the machine's cognition is a *convenience* rather than a *category*.
-
----
 
 ## ACT IV — WILL AI VIOLATE THE WATCHER'S MANDATE?
 
